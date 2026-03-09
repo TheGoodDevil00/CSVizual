@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 216 45% 98%;
+  --foreground: 222 47% 11%;
+  --card: 0 0% 100%;
+  --card-foreground: 222 47% 11%;
+  --primary: 216 82% 53%;
+  --primary-foreground: 210 40% 98%;
+  --muted: 215 24% 95%;
+  --muted-foreground: 215 20% 45%;
+  --accent: 174 82% 33%;
+  --accent-foreground: 0 0% 100%;
+  --border: 215 31% 90%;
+  --ring: 216 82% 53%;
+  --success: 142 76% 36%;
+  --warning: 33 92% 43%;
+  --danger: 0 72% 51%;
+  --radius: 14px;
+}
+
+* {
+  @apply border-border;
+}
+
+body {
+  @apply m-0 min-h-screen bg-background font-body text-foreground antialiased;
+}
+
+#root {
+  @apply min-h-screen;
+}
+
+.dashboard-grid {
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+}

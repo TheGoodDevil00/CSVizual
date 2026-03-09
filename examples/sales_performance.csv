@@ -1,0 +1,31 @@
+date,region,channel,product,units,unit_price,revenue,discount_pct
+2025-01-03,North America,Online,Laptop Pro,42,1299,54558,5
+2025-01-05,Europe,Retail,Laptop Pro,31,1320,40920,4
+2025-01-08,Asia,Distributor,Laptop Air,58,999,57942,7
+2025-01-10,North America,Online,Smartphone X,120,899,107880,6
+2025-01-12,Europe,Online,Smartphone X,104,915,95160,5
+2025-01-15,Asia,Retail,Smartphone Lite,136,499,67864,8
+2025-01-18,South America,Distributor,Tablet Plus,88,620,54560,10
+2025-01-21,North America,Retail,Tablet Plus,73,640,46720,9
+2025-01-24,Europe,Online,Watch Active,190,299,56810,3
+2025-01-26,Asia,Online,Watch Active,202,305,61610,2
+2025-02-02,North America,Distributor,Laptop Air,49,1005,49245,6
+2025-02-05,Europe,Retail,Laptop Air,41,1018,41738,5
+2025-02-08,Asia,Online,Laptop Pro,37,1288,47656,4
+2025-02-11,South America,Online,Smartphone X,98,890,87220,7
+2025-02-14,North America,Retail,Smartphone Lite,142,510,72420,6
+2025-02-16,Europe,Distributor,Smartphone Lite,126,505,63630,5
+2025-02-19,Asia,Retail,Tablet Plus,92,615,56580,8
+2025-02-22,South America,Online,Watch Active,176,295,51920,4
+2025-02-25,North America,Online,Watch Active,184,302,55568,3
+2025-02-28,Europe,Online,Tablet Plus,86,628,54008,7
+2025-03-02,Asia,Distributor,Laptop Pro,39,1312,51168,4
+2025-03-04,South America,Retail,Laptop Air,44,995,43780,6
+2025-03-06,North America,Distributor,Smartphone X,110,905,99550,5
+2025-03-08,Europe,Retail,Smartphone X,96,918,88128,4
+2025-03-10,Asia,Online,Smartphone Lite,148,502,74296,7
+2025-03-12,South America,Distributor,Tablet Plus,90,622,55980,9
+2025-03-14,North America,Online,Laptop Air,52,1012,52624,5
+2025-03-16,Europe,Online,Watch Active,198,300,59400,3
+2025-03-18,Asia,Retail,Watch Active,205,306,62730,2
+2025-03-20,South America,Online,Smartphone Lite,134,498,66732,8
